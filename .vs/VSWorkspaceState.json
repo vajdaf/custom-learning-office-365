@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\docs\\learningpathways",
+    "\\docs\\learningpathways\\v4",
+    "\\docs\\learningpathways\\v4\\en-us"
   ],
-  "SelectedNode": "\\C:\\Users\\vajdaf\\git\\custom-learning-office-365",
   "PreviewInSolutionExplorer": false
 }
